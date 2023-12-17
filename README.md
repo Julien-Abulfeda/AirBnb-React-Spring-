@@ -1,2 +1,2 @@
 # AirBnb-React-Spring
-Airbnb clone in React and spring boot for training purposes
+Airbnb clone in React and spring boot for training purposes Test 2
